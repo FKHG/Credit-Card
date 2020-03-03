@@ -1,0 +1,59 @@
+.container-credit {
+  height: 500px;
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+}
+.card {
+  margin: 20px;
+  border-radius: 10px;
+  height: 180px;
+  width: 300px;
+  background-image: url(https://besthqwallpapers.com/Uploads/4-1-2018/36227/thumb2-multicolored-bright-abstraction-triangles-abstraction-geometric-shapes-3d-background.jpg);
+  background-size: cover;
+}
+.form {
+  height: 20%;
+  width: 40%;
+  margin-top: 45px;
+  
+  
+
+}
+.head-card {
+  color: rgb(230, 230, 230);
+  display: flex;
+  justify-content: space-between;
+}
+.body-card {
+  display: flex;
+  justify-content: left;
+  margin-left: 20px;
+}
+.puce {
+  height: 30px;
+  width: 30px;
+  background-image:url(https://thumbs.dreamstime.com/b/puce-de-carte-sim-d-isolement-sur-le-fond-blanc-vecteur-152493853.jpg);
+  background-size: cover;
+  border-radius: 6px;
+}
+.card-number {
+  margin-left: 10px;
+  margin-top: 20px;
+  color: white;
+ 
+}
+.valid-card {
+  color: thistle;
+  display: flex;
+  margin-left: 40px;
+}
+.name-card {
+  color: white;
+  display: flex;
+  margin-left: 10px;
+ 
+}
+.submit{
+    width:60% ;
+}
